@@ -1,5 +1,7 @@
 # Concordium fork haskell-lmdb
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/Concordium/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+
 The original source https://github.com/dmbarbour/haskell-lmdb
 
 See [./CONCORDIUM-FORK.md](./CONCORDIUM-FORK.md) for reasons for the fork.
